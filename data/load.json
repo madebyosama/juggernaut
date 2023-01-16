@@ -1,0 +1,63 @@
+{
+  "id": "0",
+  "status": "Pending",
+  "start_date": "2020-01-01T00:00:00.511Z",
+  "amount": 0,
+  "origin": {
+    "address": {
+      "line1": "1",
+      "line2": "1",
+      "city": "1",
+      "province": "1",
+      "postalcode": "1"
+    },
+    "date_and_time": "2020-01-01T00:00:00.511Z"
+  },
+  "destination": {
+    "address": {
+      "line1": "1",
+      "line2": "1",
+      "city": "1",
+      "province": "1",
+      "postalcode": "1"
+    },
+    "date_and_time": "2020-01-01T00:00:00.511Z"
+  },
+  "distance": 0,
+  "details": {
+    "trailer_type": "1",
+    "trailer_axle": "1",
+    "full_or_partial": "1",
+    "capacity": {
+      "value": 1,
+      "unit": "1"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "unit": "1"
+    },
+    "volume": {
+      "value": 1,
+      "unit": "1"
+    },
+    "commodity_description": "1",
+    "quantity_description": "1",
+    "notes": "1"
+  },
+  "consignor": {
+    "name": "1",
+    "phone": "1"
+  },
+  "consignee": {
+    "name": "1",
+    "phone": "1"
+  },
+  "tracking_details": {
+    "locations": [{}]
+  },
+  "business_id": "1",
+  "shipper_id": "1",
+  "amount_set_by": "1",
+  "tracked_by": "1"
+}

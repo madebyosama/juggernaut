@@ -1,0 +1,32 @@
+.business-row {
+  max-width: 1200px;
+  margin: auto;
+  font-family: 'Poppins';
+  padding: 40px 0px;
+}
+
+.business-column-left {
+  display: flex;
+  flex-direction: column;
+  padding-right: 48px;
+  flex: 50% 1;
+  justify-content: center;
+  text-align: justify;
+}
+
+.business-image {
+  flex: 50% 1;
+}
+
+.business-image > img {
+  width: 600px;
+}
+
+.business-column-right {
+  display: flex;
+  flex-direction: column;
+  padding-left: 48px;
+  justify-content: center;
+  flex: 50% 1;
+  text-align: justify;
+}

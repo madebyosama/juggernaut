@@ -1,0 +1,18 @@
+{
+  "cnic": "37103-9911831-5",
+  "name": "Muhammad Osama",
+  "father_name": "Muhammad Iqbal",
+  "phone": "+923352522522",
+  "licence_category": "HTV",
+  "licence_expiry": "2022-05-11T00:00:00.000+00:00",
+  "insurance_policy": "None",
+  "health_condition": "OKAY",
+  "upload_cnic": [""],
+  "upload_licence": [""],
+  "client": {
+    "id": "625d1321b1cf433d3ac4432c",
+    "name": "Dairy Farm Products"
+  },
+  "approved_by": "123",
+  "rejected_by": "123"
+}
